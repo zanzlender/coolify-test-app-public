@@ -1,1 +1,1 @@
-# coolify-test-app-public
+# coolify-test-app
